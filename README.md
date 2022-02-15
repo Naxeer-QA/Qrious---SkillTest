@@ -23,5 +23,7 @@ Below is an automation scenario just to review, you may run it using an IDE. It 
 
 As requested, I've identified two issues whilst performing manaul test of the user story. To replicate the same, I've created a bug report and evidenced the same with the screenshots.
 
- As requested, you may have a look at my other projects on github using the following;
-  
+ As requested, you may have a look at my other projects on github using the following URLs.
+  https://github.com/Naxeer-QA/Sprint--3---Advanced.git
+  https://github.com/Naxeer-QA/thlDigital_TechnicalAssesment.git
+
