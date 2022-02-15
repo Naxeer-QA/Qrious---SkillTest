@@ -7,17 +7,18 @@ I've created two unit tests just to make sure that the program is working okay a
 Below is an automation scenario just to review, you may run it using an IDE. It will be through successfully:
 
 **Scenario: User updates profile**
-	1. Given the user is logged in with valid '<useRname>' and '<pasSword>' successfully.
 	
-	2. When the user clicks on edit profile button.
+	 Given the user is logged in with valid '<useRname>' and '<pasSword>' successfully.
 	
-	3. Then the edit profile page is shown.
+	 When the user clicks on edit profile button.
 	
-	4. When the user edits '<emailAddress>', '<DateOfBirth>', '<newPassword>' and '<confirmPassword>.
+	 Then the edit profile page is shown.
 	
-	5. And clicks on submit button.
+	 When the user edits '<emailAddress>', '<DateOfBirth>', '<newPassword>' and '<confirmPassword>.
 	
-	6. Then the updated details are shown along with the '<successmessage>.
+	 And clicks on submit button.
+	
+	 Then the updated details are shown along with the '<successmessage>.
 	
 	Examples: 
 	| useRname | pasSword         |emailAddress          | DateOfBirth | newPassword     | confirmPassword |successmessage                                             |
